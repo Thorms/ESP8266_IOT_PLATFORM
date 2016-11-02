@@ -6,8 +6,8 @@ Rem example:
 Rem set SDK_PATH=/c/esp_iot_sdk_freertos
 Rem set BIN_PATH=/c/esp8266_bin
 
-set SDK_PATH=""
-set BIN_PATH=""
+set SDK_PATH="/c/esp_iot_sdk_freertos"
+set BIN_PATH="/c/esp8266_bin"
 
 echo gen_misc.bat version 20150911
 echo .
