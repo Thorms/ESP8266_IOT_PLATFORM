@@ -3,11 +3,11 @@
 Rem ******NOTICE******
 Rem MUST set SDK_PATH & BIN_PATH firstly!!!
 Rem example:
-Rem set SDK_PATH=/c/esp_iot_sdk_freertos
-Rem set BIN_PATH=/c/esp8266_bin
+Rem set SDK_PATH=/esp_rtos_sdk
+Rem set BIN_PATH=/esp8266_bin
 
-set SDK_PATH="/c/esp_rtos_sdk"
-set BIN_PATH="/c/esp8266_bin"
+set SDK_PATH="/esp_rtos_sdk"
+set BIN_PATH="/esp8266_bin"
 
 echo gen_misc.bat version 20150911
 echo .
